@@ -1,0 +1,23 @@
+[17-Feb-2020 06:03:21 Asia/Kolkata] PHP Notice:  Undefined variable: subject in /home/sogayo/domains/sogayo.org/public_html/sogayo/donation.php on line 140
+[17-Feb-2020 06:03:21 Asia/Kolkata] PHP Notice:  Undefined variable: subject in /home/sogayo/domains/sogayo.org/public_html/sogayo/donation.php on line 160
+[12-May-2020 01:59:04 Asia/Kolkata] PHP Notice:  Undefined index: cno in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 128
+[12-May-2020 01:59:04 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 130
+[17-May-2020 21:00:25 Asia/Kolkata] PHP Notice:  Undefined index: cno in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 128
+[17-May-2020 21:00:25 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 130
+[25-May-2020 02:06:15 Asia/Kolkata] PHP Notice:  Undefined index: cno in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 128
+[25-May-2020 02:06:15 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 130
+[08-Aug-2020 02:28:32 Asia/Kolkata] PHP Notice:  Undefined index: cno in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 128
+[08-Aug-2020 02:28:32 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 130
+[16-Sep-2020 21:56:12 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
+[03-Oct-2020 17:10:49 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
+[06-Oct-2020 05:14:48 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
+[27-Oct-2020 13:12:01 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
+[25-Nov-2020 05:26:59 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
+[30-Nov-2020 22:32:50 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
+[08-Dec-2020 18:12:06 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
+[27-Dec-2020 15:40:06 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
+[14-Jan-2021 20:58:56 Asia/Kolkata] PHP Notice:  Undefined index: cno in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 128
+[14-Jan-2021 20:58:56 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 130
+[23-Jan-2021 20:19:26 Asia/Kolkata] PHP Notice:  Undefined index: cno in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 128
+[23-Jan-2021 20:19:26 Asia/Kolkata] PHP Notice:  Undefined index: msg in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 130
+[26-Jan-2021 17:26:51 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/sogayo/domains/sogayo.org/public_html/sogayo/contact.php on line 151
